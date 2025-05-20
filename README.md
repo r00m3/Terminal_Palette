@@ -1,12 +1,6 @@
-```
-________ Terminal Palette ______________________________________________________
+# Terminal Palette
+###### _Check how your terminal prints colors._
 
-
-	Check how your terminal prints colors.
-
-
-________________________________________________________________________________
-```
 ![Terminal_Palette_Screenshots_001.png](Terminal_Palette_Screenshots/Terminal_Palette_Screenshots_001.png "Terminal_Palette_Screenshots_001.png")
 ![Terminal_Palette_Screenshots_002.png](Terminal_Palette_Screenshots/Terminal_Palette_Screenshots_002.png "Terminal_Palette_Screenshots_002.png")
 ![Terminal_Palette_Screenshots_003.png](Terminal_Palette_Screenshots/Terminal_Palette_Screenshots_003.png "Terminal_Palette_Screenshots_003.png")
